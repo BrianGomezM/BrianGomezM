@@ -1,6 +1,5 @@
 <h1 align="center">
-<iframe src="https://giphy.com/embed/2sfgpOIf3dA3rxVs9K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/wine-chill-chilling-2sfgpOIf3dA3rxVs9K">via GIPHY</a></p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=FF5733" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2sfgpOIf3dA3rxVs9K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/wine-chill-chilling-2sfgpOIf3dA3rxVs9K">via GIPHY</a></p><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=FF5733" />
 
 </h1>
 
