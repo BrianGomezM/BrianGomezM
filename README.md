@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=gif&color=000000](https://www.flaticon.es/icono-animado-gratis/bull-terrier_9197229)"/>
+<img src="https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=gif&color=000000" alt="Bull Terrier" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=FF5733" />
 
 </h1>
