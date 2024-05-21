@@ -1,3 +1,9 @@
+<h1 align="center">
+<iframe src="https://giphy.com/embed/2sfgpOIf3dA3rxVs9K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/wine-chill-chilling-2sfgpOIf3dA3rxVs9K">via GIPHY</a></p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=FF5733" />
+
+</h1>
+
 # 💫 About Me:
 🔭 Currently working on pushing the boundaries of technology and exploring new horizons.<br>👯 Eager to collaborate on innovative projects that challenge and inspire.<br>🤝 Seeking assistance with mastering new technologies and refining my skills.<br>🌱 Currently learning cutting-edge techniques in software development and staying abreast of industry trends.<br>💬 Feel free to ask me about anything related to programming, software engineering, or technology.<br>⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time
 
