@@ -24,8 +24,8 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<div style="overflow: auto;">
-  <div style="float: left; width: 60%;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
     <ul>
       <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
       <li>💻 Most used line of code <code>console.log("hello world")</code></li>
@@ -35,10 +35,11 @@
     </ul>
   </div>
 
-  <div style="float: right; width: 40%; text-align: center;">
-    <img alt="Coding" style="max-width: 50%;" src="hi2.gif">
+  <div style="flex: 1; text-align: center;">
+    <img alt="Coding" style="max-width: 100%; width: 200px;" src="hi2.gif">
   </div>
 </div>
+
 
 
 <br>
