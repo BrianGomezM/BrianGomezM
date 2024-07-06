@@ -24,16 +24,16 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<img align="right" alt="Coding" style="width: 20%;" src="hi2.gif">
-
-
-<ul>
+<ul style="overflow: auto;">
   <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
   <li>💻 Most used line of code <code>console.log("hello world")</code></li>
   <li>👨‍💻 Always eager to learn new technologies and skills.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
   <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
 </ul>
+
+<img align="right" alt="Coding" style="width: 40%; float: right; margin-left: 20px;" src="hi2.gif">
+
 <br>
 <div align="center">
   <h2 align="center">⚒️ Things I code with ⚒️</h2>
