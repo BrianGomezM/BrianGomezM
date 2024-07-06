@@ -24,20 +24,20 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
+<div style="display: flex;align-items: center;">
+   <div>
+     <ul>
+       <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
+       <li>💻 Most used line of code <code>console.log("hello world")</code></li>
+       <li>👨‍💻 Always eager to learn new technologies and skills.</li>
+       <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
+       <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
+     </ul>
+   </div>
    <div style="text-align: right;">
     <img alt="Coding" style="max-width: 100%; width: 200px;" src="hi2.gif">
   </div>
-  <div style="text-align: left; flex: 1;">
-    <ul>
-      <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
-      <li>💻 Most used line of code <code>console.log("hello world")</code></li>
-      <li>👨‍💻 Always eager to learn new technologies and skills.</li>
-      <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
-      <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
-    </ul>
-  </div>
-</div>
+ </div>
 
 
 
