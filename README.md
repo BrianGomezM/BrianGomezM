@@ -38,9 +38,13 @@ My name is Brayan Gomez. I'm currently studying systems engineering and I'm pass
 
 ## My GitHub Statistics 📊:
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BrianGomezM&theme=city_light&hide_border=false)
-![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=BrianGomezM&count_private=true&show_icons=true&theme=city_light&rank_icon=github&border_radius=10)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGomezM&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BrianGomezM&theme=city_light&hide_border=false)
+
+![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=BrianGomezM&count_private=true&show_icons=true&theme=city_light&rank_icon=github&border_radius=10)
+
+
 
 
 </div>
