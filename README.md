@@ -24,7 +24,7 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<img align="right" alt="Coding" style="width: 60%;" src="hi2.gif">
+<img align="right" alt="Coding" style="width: 20%;" src="hi2.gif">
 
 
 <ul>
