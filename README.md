@@ -18,11 +18,13 @@
 
 <hr/>
 
-<img align="right" alt="Coding" width="400" src="hi2.gif">
+
 
 <br/>
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
+
+<img align="right" alt="Coding" width="68%" src="hi2.gif">
 
 <ul>
   <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
@@ -85,7 +87,6 @@
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
-
 </h3>
 
 <br/>
