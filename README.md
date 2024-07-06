@@ -1,12 +1,12 @@
 # Brayan Gomez Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=valentinabarbetty&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=BrianGomezM&color=red)
 
-![Hi! 👨‍💻 I'm Brayan Gomez!](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=000000)
+![Hi! 👨‍💻 I'm Brayan Gomez!](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=ffffff)
 
 ![Banner](banner.png)
 
-![Coding](https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true)
+<img src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true" alt="Coding" width="200" />
 
 My name is Brayan Gomez. I'm currently studying systems engineering and I'm passionate about full-stack development. Here's a bit about me:
 
@@ -19,7 +19,7 @@ My name is Brayan Gomez. I'm currently studying systems engineering and I'm pass
 
 - Get to know more about me [Portfolio](https://gomezdevportfolio.netlify.app/) 💻
 
-![Coding](frase.jpg)
+<img alt="Coding" width="200" src="frase.jpg">
 
 ## 🖥️ Languages-Frameworks-Tools 🖥️
 
