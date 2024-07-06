@@ -24,15 +24,22 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<ul style="overflow: auto;">
-  <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
-  <li>💻 Most used line of code <code>console.log("hello world")</code></li>
-  <li>👨‍💻 Always eager to learn new technologies and skills.</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
-  <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
-</ul>
+<div style="overflow: auto;">
+  <div style="float: left; width: 60%;">
+    <ul>
+      <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
+      <li>💻 Most used line of code <code>console.log("hello world")</code></li>
+      <li>👨‍💻 Always eager to learn new technologies and skills.</li>
+      <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
+      <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
+    </ul>
+  </div>
 
-<img align="right" alt="Coding" style="width: 40%; float: right; margin-left: 20px;" src="hi2.gif">
+  <div style="float: right; width: 40%; text-align: center;">
+    <img alt="Coding" style="max-width: 100%;" src="hi2.gif">
+  </div>
+</div>
+
 
 <br>
 <div align="center">
