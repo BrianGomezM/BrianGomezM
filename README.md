@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BrianGomezM.BrianGomezM" />
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=ffffff" alt="Hi! 👨‍💻 I'm Brayan Gomez!" />
-
+<h3 style="text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=ffffff" alt="Hi! 👨‍💻 I'm Brayan Gomez!" />
+</h3>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 <div align="center">
@@ -24,7 +24,8 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<img align="right" alt="Coding" width="68%" src="hi2.gif">
+<img align="right" alt="Coding" style="width: 60%;" src="hi2.gif">
+
 
 <ul>
   <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
@@ -85,8 +86,8 @@
 </div>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
+<h3 style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab&color=ffffff" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
 </h3>
 
 <br/>
