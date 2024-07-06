@@ -22,30 +22,31 @@
 
 <br/>
 
-<h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:</h1>
+<h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
 <ul>
-  <li>💪🏻 Working on: Deepening my knowledge in many areas of my career.</li>
-  <li>💻 &emsp;Most used line of code <code>console.log("hello world")</code></li>
-  <li>👨‍💻 Learning: Always eager to learn new technologies and skills.</li>
+  <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
+  <li>💻 Most used line of code <code>console.log("hello world")</code></li>
+  <li>👨‍💻 Always eager to learn new technologies and skills.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
   <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
 </ul>
-
+<br>
 <div align="center">
   <h2 align="center">⚒️ Things I code with ⚒️</h2>
 
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" /></a>
+
 </div>
 
 <hr />
@@ -73,6 +74,7 @@
 </div>
 
 <br/><br/>
+
 <h2 align="center">🤖 My Contributions 🤖</h2>
 <br>
 <hr/>
@@ -82,18 +84,12 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=¡Hi!+👨‍💻;+I'm+Brayan+Gomez!;&color=ffffff" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
+
 </h3>
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>My GitHub Statistics 📊:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGomezM&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianGomezM&theme=city_light&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=BrianGomezM&count_private=true&show_icons=true&theme=city_light&rank_icon=github&border_radius=10" alt="Readme Stats" />
-</div>
 
 <img src="banner.png" alt="Banner" />
 
