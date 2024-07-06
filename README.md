@@ -24,20 +24,23 @@
 
 <h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  About Me:</h1>
 
-<div style="display: flex;align-items: center;">
-   <div>
-     <ul>
-       <li>💪🏻 Working on deepening my knowledge in many areas of my career.</li>
-       <li>💻 Most used line of code <code>console.log("hello world")</code></li>
-       <li>👨‍💻 Always eager to learn new technologies and skills.</li>
-       <li>📫 How to reach me: <a href="https://www.linkedin.com/in/brayangomezm">LinkedIn</a> or <a href="mailto:brayan.gomez2646@gmail.com">Email</a></li>
-       <li>🐶 Fun fact: <strong>World first developer was a woman</strong></li>
-     </ul>
-   </div>
-   <div style="text-align: right;">
-    <img alt="Coding" style="max-width: 100%; width: 200px;" src="hi2.gif">
-  </div>
- </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab" alt="Thanks for visiting! ✌️; Shoot me a message on LinkedIn! I'm always down to collab" />
+</p>
+
+---
+
+<p align="center">
+  <img align="right" alt="Coding" width="200" src="hi2.gif">
+</p>
+
+## About Me:
+
+- 💪🏻 Working on deepening my knowledge in many areas of my career.
+- 💻 Most used line of code `console.log("hello world")`
+- 👨‍💻 Always eager to learn new technologies and skills.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brayangomezm) or [Email](mailto:brayan.gomez2646@gmail.com)
+- 🐶 Fun fact: **World first developer was a woman**
 
 
 
