@@ -36,7 +36,7 @@
   </div>
 
   <div style="float: right; width: 40%; text-align: center;">
-    <img alt="Coding" style="max-width: 100%;" src="hi2.gif">
+    <img alt="Coding" style="max-width: 50%;" src="hi2.gif">
   </div>
 </div>
 
