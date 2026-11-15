@@ -1,7 +1,7 @@
 <h1 align="center">Brayan Gómez</h1>
 
 <p align="center">
-  Desarrollador Full Stack. Ingeniería de Sistemas en la Universidad del Valle, último semestre.<br/>
+  Líder de proyectos de software y desarrollador Full Stack. Ingeniería de Sistemas en Univalle, último semestre.<br/>
   Sistemas de información, APIs, nube y soluciones con datos e inteligencia artificial.
 </p>
 
