@@ -1,8 +1,8 @@
 <h1 align="center">Brayan Gómez</h1>
 
 <p align="center">
-  Estudiante de último semestre de Ingeniería de Sistemas en la Universidad del Valle.<br/>
-  Tecnólogo en sistemas. Trabajo en soporte técnico, redes y desarrollo de software.
+  Desarrollador Full Stack. Ingeniería de Sistemas en la Universidad del Valle, último semestre.<br/>
+  Sistemas de información, APIs, nube y soluciones con datos e inteligencia artificial.
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## Sobre mí
 
-Trabajo en tecnología desde 2016. Empecé desarrollando una aplicación móvil para el SENA en Popayán, después estuve casi dos años en soporte a usuarios y monitoreo de plataformas en Cali, y desde 2022 trabajo en Comunix, donde desarrollo aplicaciones web y APIs, administro bases de datos MySQL y despliego servicios en la nube.
+Soy desarrollador Full Stack en Comunix. Diseño y construyo sistemas de información de punta a punta: interfaces en React y Angular, APIs y microservicios en Node.js, Python y Java, bases de datos MySQL y PostgreSQL, y despliegue en AWS, Google Cloud y Azure con Docker. He liderado el desarrollo de las plataformas Bodecom para programas sociales con la FAO y con Prosperidad Social.
 
-Me gradué como tecnólogo en Sistemas de Información en Univalle y en Análisis y Desarrollo de Sistemas de Información en el SENA. Tengo las certificaciones CCNAv7 de Cisco y Scrum Foundation.
+Estoy terminando Ingeniería de Sistemas en Univalle y soy tecnólogo en Sistemas de Información (Univalle) y en Análisis y Desarrollo de Sistemas de Información (SENA). Trabajo con Scrum y tengo las certificaciones Scrum Foundation y Cisco CCNAv7.
 
 ## Proyectos destacados
 
@@ -34,7 +34,7 @@ Me gradué como tecnólogo en Sistemas de Información en Univalle y en Análisi
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,angular,nodejs,express,nextjs,java,php,mysql,postgres,docker,linux,git,githubactions,aws,azure,gcp,threejs,tailwind,postman,unity,blender&perline=13" alt="Tecnologías" />
 </p>
 
-También manejo soporte técnico de hardware y software, redes TCP/IP y equipos Cisco, Windows y metodologías ágiles con Scrum.
+También tengo base en redes TCP/IP con Cisco, Linux y operación de sistemas en producción.
 
 ## Actividad
 
