@@ -1,8 +1,8 @@
 <h1 align="center">Brayan Gómez</h1>
 
 <p align="center">
-  Líder de proyectos de software y desarrollador Full Stack. Ingeniería de Sistemas en Univalle, último semestre.<br/>
-  Sistemas de información, APIs, nube y soluciones con datos e inteligencia artificial.
+  Desarrollador Full Stack y líder técnico de proyectos de software. Ingeniería de Sistemas en Univalle, último semestre.<br/>
+  Sistemas de información para el sector público y social, APIs, nube y visión por computador.
 </p>
 
 <p align="center">
@@ -14,18 +14,19 @@
 
 ## Sobre mí
 
-Soy desarrollador Full Stack en Comunix. Diseño y construyo sistemas de información de punta a punta: interfaces en React y Angular, APIs y microservicios en Node.js, Python y Java, bases de datos MySQL y PostgreSQL, y despliegue en AWS, Google Cloud y Azure con Docker. He liderado el desarrollo de las plataformas Bodecom para programas sociales con la FAO y con Prosperidad Social.
+Llevo más de siete años en tecnología. Desde 2022 lidero en Comunix el desarrollo de las plataformas Bodecom, con las que la FAO, la Agencia de Renovación del Territorio y Prosperidad Social gestionan programas sociales en Colombia. Acompaño cada proyecto desde las primeras reuniones con la entidad hasta la salida a producción: defino la arquitectura, planeo las entregas con Scrum, desarrollo interfaces en React y Angular y APIs en Node.js, Python y Java, y despliego en AWS, Google Cloud y Azure con Docker. También construí el CMS multi-sitio de la Cámara de Comercio del Cauca con Payload y Next.js.
 
-Estoy terminando Ingeniería de Sistemas en Univalle y soy tecnólogo en Sistemas de Información (Univalle) y en Análisis y Desarrollo de Sistemas de Información (SENA). Trabajo con Scrum y tengo las certificaciones Scrum Foundation y Cisco CCNAv7.
+Estoy en el último semestre de Ingeniería de Sistemas en Univalle y soy tecnólogo en Sistemas de Información (Univalle) y en Análisis y Desarrollo de Sistemas de Información (SENA). Tengo las certificaciones Scrum Foundation y Cisco CCNAv7.
 
 ## Proyectos destacados
 
 | Proyecto | Qué es |
 | --- | --- |
 | [VisionNav](https://github.com/BrianGomezM/vision-api-object-detection) | Mi trabajo de grado. Una API en Python con FastAPI y YOLO que describe en audio escenas Web 3D para personas con ceguera total. |
-| Bodecom | Sistemas de información que desarrollo en Comunix para programas sociales con la FAO y con Prosperidad Social. Tableros, mapas, reportes y OCR. Código privado. |
+| Bodecom | Plataformas que lidero en Comunix para programas sociales de la FAO, la Agencia de Renovación del Territorio y Prosperidad Social. Tableros de seguimiento, mapas, reportes y OCR. Código privado. |
 | CMS Cámara de Comercio del Cauca | Gestor de contenidos multi-sitio con constructor visual de páginas, hecho con Payload CMS y Next.js. Código privado. |
 | [Canal de agua 3D](https://github.com/BrianGomezM/canal-agua-sim) | Simulación de aguas someras con un solver en Python y visualización en Three.js. |
+| [Planificador de ensayos](https://github.com/BrianGomezM/minizinc_novelas) | Programación por restricciones con MiniZinc, API en FastAPI e interfaz en Next.js. |
 | [Sentimiento en tweets](https://github.com/BrianGomezM/twitter-sentiment-analysis) | Comparación de redes MLP, RNN, LSTM y GRU para clasificar tweets. |
 
 ## Con qué trabajo
