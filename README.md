@@ -23,8 +23,8 @@ Me gusta liderar equipos y trabajar en proyectos que representen un reto. Aprend
 | Proyecto | Qué es |
 | --- | --- |
 | [VisionNav](https://github.com/BrianGomezM/vision-api-object-detection) | Mi trabajo de grado. Una API en Python con FastAPI y YOLO que describe en audio escenas Web 3D para personas con ceguera total. |
-| Bodecom | Plataformas que lidero en Comunix para programas sociales de la FAO, la Agencia de Renovación del Territorio y Prosperidad Social. Tableros de seguimiento, mapas, reportes y OCR. Código privado. |
-| CMS Cámara de Comercio del Cauca | Gestor de contenidos multi-sitio con constructor visual de páginas, hecho con Payload CMS y Next.js. Código privado. |
+| Sistemas de información para programas sociales | Plataformas con tableros de seguimiento, mapas, reportes y lectura de documentos con OCR. Código privado. |
+| Gestor de contenidos multisitio | Constructor visual de páginas por bloques para el sitio web de una entidad, hecho con Payload CMS y Next.js. Código privado. |
 | [Canal de agua 3D](https://github.com/BrianGomezM/canal-agua-sim) | Simulación de aguas someras con un solver en Python y visualización en Three.js. |
 | [Planificador de ensayos](https://github.com/BrianGomezM/minizinc_novelas) | Programación por restricciones con MiniZinc, API en FastAPI e interfaz en Next.js. |
 | [Sentimiento en tweets](https://github.com/BrianGomezM/twitter-sentiment-analysis) | Comparación de redes MLP, RNN, LSTM y GRU para clasificar tweets. |
