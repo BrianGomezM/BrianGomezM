@@ -1,8 +1,8 @@
 <h1 align="center">Brayan Gómez</h1>
 
 <p align="center">
-  Desarrollador Full Stack y líder técnico de proyectos de software. Ingeniería de Sistemas en Univalle, último semestre.<br/>
-  Sistemas de información para el sector público y social, APIs, nube y visión por computador.
+  Desarrollador Full Stack y líder de proyectos de software. Estudiante de último semestre de Ingeniería de Sistemas.<br/>
+  Aplicaciones web y sistemas de información, desde la idea hasta su puesta en marcha.
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## Sobre mí
 
-Llevo más de siete años en tecnología. Desde 2022 lidero en Comunix el desarrollo de las plataformas Bodecom, con las que la FAO, la Agencia de Renovación del Territorio y Prosperidad Social gestionan programas sociales en Colombia. Acompaño cada proyecto desde las primeras reuniones con la entidad hasta la salida a producción: defino la arquitectura, planeo las entregas con Scrum, desarrollo interfaces en React y Angular y APIs en Node.js, Python y Java, y despliego en AWS, Google Cloud y Azure con Docker. También construí el CMS multi-sitio de la Cámara de Comercio del Cauca con Payload y Next.js.
+Estudiante de último semestre de Ingeniería de Sistemas, con más de siete años de experiencia en desarrollo de software. Participo en todo el proceso de un proyecto: entender lo que se necesita, diseñar la solución, construirla y ponerla en funcionamiento.
 
-Estoy en el último semestre de Ingeniería de Sistemas en Univalle y soy tecnólogo en Sistemas de Información (Univalle) y en Análisis y Desarrollo de Sistemas de Información (SENA). Tengo las certificaciones Scrum Foundation y Cisco CCNAv7.
+Me gusta liderar equipos y trabajar en proyectos que representen un reto. Aprendo rápido y trabajo bien en grupo. Trabajo con Scrum.
 
 ## Proyectos destacados
 
